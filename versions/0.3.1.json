@@ -21,8 +21,8 @@
     {
       "name": "PrintStudio-0.3.1-windows-x64-part03.zip",
       "url": "https://github.com/CARLOBINI/PrintStudioBinaries/releases/download/v0.3.1/PrintStudio-0.3.1-windows-x64-part03.zip",
-      "sha256": "8859038d7dd3f7e47e6098c1fefd810a8be90d9c8cb77ca666a0b1084445ca1b",
-      "bytes": 365071636
+      "sha256": "ee817e95444f158159ca4169751495aa5e90282b14a4c173ebefc78c68553dbd",
+      "bytes": 365071650
     },
     {
       "name": "PrintStudio-0.3.1-windows-x64-part04.zip",
@@ -31,10 +31,10 @@
       "bytes": 112462501
     }
   ],
-  "sourceCommit": "cffd06ae787e92b509f86e66292fb66e0421b156",
+  "sourceCommit": "12f12289ce015687b30fdbd479ed728fc9bcc015",
   "setup": {
     "url": "https://github.com/CARLOBINI/PrintStudioBinaries/releases/download/v0.3.1/PrintStudioSetup.exe",
-    "sha256": "36385df18f594995051e104cfb5aabf064bc253457463346f7baae9d5ea69d88",
+    "sha256": "31d921fc498dfa59b3af91aebf4980e089b6b6fe369400fcee4bb7a8b311f382",
     "bytes": 152576
   }
 }
