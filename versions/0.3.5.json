@@ -1,0 +1,40 @@
+{
+  "version": "0.3.5",
+  "platform": "windows-x64",
+  "channel": "preview",
+  "requiredSupportDate": "2026-11-24",
+  "title": "PrintStudio 0.3.5 - Windows 64 bit",
+  "unpackedBytes": 3170584623,
+  "packages": [
+    {
+      "name": "PrintStudio-0.3.5-windows-x64-part01.zip",
+      "url": "https://github.com/CARLOBINI/PrintStudioBinaries/releases/download/v0.3.5/PrintStudio-0.3.5-windows-x64-part01.zip",
+      "sha256": "fb1f866dc5fc1c473dfa8297fe5545a62f6445bb25d1c32dddfe8cc07a5130b5",
+      "bytes": 511235695
+    },
+    {
+      "name": "PrintStudio-0.3.5-windows-x64-part02.zip",
+      "url": "https://github.com/CARLOBINI/PrintStudioBinaries/releases/download/v0.3.5/PrintStudio-0.3.5-windows-x64-part02.zip",
+      "sha256": "e27cb5debbdbb88e816d9af6269e1a920a6a41f6effd117850f8d39f85d13c34",
+      "bytes": 344140809
+    },
+    {
+      "name": "PrintStudio-0.3.5-windows-x64-part03.zip",
+      "url": "https://github.com/CARLOBINI/PrintStudioBinaries/releases/download/v0.3.5/PrintStudio-0.3.5-windows-x64-part03.zip",
+      "sha256": "caa23d645531fd0e84389c83e2230b9f8fafa1ecf6a807a3031b27b54491970b",
+      "bytes": 439564857
+    },
+    {
+      "name": "PrintStudio-0.3.5-windows-x64-part04.zip",
+      "url": "https://github.com/CARLOBINI/PrintStudioBinaries/releases/download/v0.3.5/PrintStudio-0.3.5-windows-x64-part04.zip",
+      "sha256": "199f46602d46f94b68da5f89857be178f3c891eaf0e2c03f006e4b4284616905",
+      "bytes": 253620445
+    }
+  ],
+  "sourceCommit": "90aea285dad1eb34eb7a86665fd6c1f2d8af0834",
+  "setup": {
+    "url": "https://github.com/CARLOBINI/PrintStudioBinaries/releases/download/v0.3.5/PrintStudioSetup.exe",
+    "sha256": "21bdad1772ca22b6648fe795ae9d5e91b4514ab78290ec46b7fa50983d50d7ce",
+    "bytes": 258048
+  }
+}
