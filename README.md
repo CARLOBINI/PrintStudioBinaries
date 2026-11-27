@@ -4,7 +4,7 @@ Repository pubblico dei pacchetti compilati. I sorgenti sono conservati separata
 
 Versione corrente: **0.3.10** (Windows 64 bit).
 
-Scarica [PrintStudioSetup.exe](https://github.com/CARLOBINI/PrintStudioBinaries/releases/download/setup-v0.3.10.0/PrintStudioSetup.exe), eseguilo e scegli la versione da installare. Non servono Git, Qt o Visual Studio sul computer destinatario.
+Scarica [PrintStudioSetup.exe](https://github.com/CARLOBINI/PrintStudioBinaries/releases/download/setup-v0.3.10.1/PrintStudioSetup.exe), eseguilo e scegli la versione da installare. Non servono Git, Qt o Visual Studio sul computer destinatario.
 
 Il setup scarica i componenti completi, crea i collegamenti e conserva separati impostazioni, report e driver installati. Permette di scegliere anche versioni precedenti consentite. PrintStudio usa lo stesso catalogo dal menu File > Verifica aggiornamenti.
 
@@ -15,3 +15,5 @@ Le release sono pubbliche: il controllo della licenza nel setup non impedisce il
 Versioni e metadati: cartella versions. Le release precedenti restano disponibili.
 
 Setup aggiornato: **0.3.10.0**. Versione applicativa invariata.
+
+Setup aggiornato: **0.3.10.1**. Versione applicativa invariata.
