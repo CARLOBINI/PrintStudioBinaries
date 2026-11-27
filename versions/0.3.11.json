@@ -1,0 +1,24 @@
+{
+  "version": "0.3.11",
+  "platform": "windows-x64",
+  "channel": "preview",
+  "requiredSupportDate": "2026-11-27",
+  "title": "PrintStudio 0.3.11 - Windows 64 bit",
+  "unpackedBytes": 3184708672,
+  "packages": [],
+  "fileIndex": {
+    "encoding": "gzip",
+    "name": "files-0.3.11.json.gz",
+    "sha256": "219017f14d09babd4c2860a6213561947e2c77eb8ec07c09b6306d574bb5eb7c",
+    "bytes": 551380,
+    "url": "https://github.com/CARLOBINI/PrintStudioBinaries/releases/download/v0.3.11/files-0.3.11.json.gz"
+  },
+  "transport": "files-v1",
+  "offlinePackages": [],
+  "sourceCommit": "d5c905c3b2f1c0b6f3eab44a3729d842fba9984e",
+  "setup": {
+    "url": "https://github.com/CARLOBINI/PrintStudioBinaries/releases/download/v0.3.11/PrintStudioSetup.exe",
+    "sha256": "de4f5f4eddb0515fdef991e45651ba5cecde27d2440a53f079ec7306040ff799",
+    "bytes": 267264
+  }
+}
