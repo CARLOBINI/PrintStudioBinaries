@@ -8,8 +8,8 @@
   "packages": [],
   "fileIndex": {
     "name": "files-0.3.10.json",
-    "sha256": "fd0761baa1dba3ede383359ef0011d4afed3cb0530ba51a6ed90f73fcf5238b4",
-    "bytes": 4882937,
+    "sha256": "3bb5a6b2265dfe355e4910fe7b96a642e3f9ba0328a00ca61b17d5779ac485a5",
+    "bytes": 4882941,
     "url": "https://github.com/CARLOBINI/PrintStudioBinaries/releases/download/v0.3.10/files-0.3.10.json"
   },
   "transport": "files-v1",
