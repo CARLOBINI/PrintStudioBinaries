@@ -1,0 +1,24 @@
+{
+  "version": "0.3.14",
+  "platform": "windows-x64",
+  "channel": "preview",
+  "requiredSupportDate": "2026-11-28",
+  "title": "Dev Studio 8i 0.3.14 - Windows 64 bit",
+  "unpackedBytes": 3202819596,
+  "packages": [],
+  "fileIndex": {
+    "encoding": "gzip",
+    "name": "files-0.3.14.json.gz",
+    "sha256": "b630053da39ddac2e3591ddd7bca589783697470592a2e8d6c565a9531b90e71",
+    "bytes": 552884,
+    "url": "https://github.com/CARLOBINI/PrintStudioBinaries/releases/download/v0.3.14/files-0.3.14.json.gz"
+  },
+  "transport": "files-v1",
+  "offlinePackages": [],
+  "sourceCommit": "5ab82b8f3a322ee3b2f817cc8a81921d495b4b98",
+  "setup": {
+    "url": "https://github.com/CARLOBINI/PrintStudioBinaries/releases/download/v0.3.14/PrintStudioSetup.exe",
+    "sha256": "5567ffab44cfff3cc3e0b7902c2263375a4f1618ad8a0ed72e759af0407d19ad",
+    "bytes": 419328
+  }
+}
